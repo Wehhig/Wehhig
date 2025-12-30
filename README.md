@@ -75,7 +75,7 @@
 
 ---
 
-## 🧷 Featured projects (pinned-ready)
+## 🧷 Featured projects 
 
 ### 🖐️ Mystic Sign — hand tracking game
 **MediaPipe + OpenCV (Python)** for gesture recognition + **Unity (C#)** gameplay layer.  
