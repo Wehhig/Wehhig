@@ -106,7 +106,6 @@ Neural network projects focused on **learning dynamics, evaluation, and visualiz
 - 🔗 XOR in PyTorch — https://github.com/Wehhig/XOR_PyTorch-Implementation  
 - 🔗 IRIS classification — https://github.com/Wehhig/IRIS_Data_Base  
 
-> Tip: Pin **Mystic Sign**, **Solar System**, and **Self-organizing-networks-Wta-Wtm** on your profile (Profile → **Customize your pins**).
 
 ---
 
