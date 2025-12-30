@@ -2,11 +2,9 @@
    PROFILE README — Wehhig
    Style: minimal + cyber
 ======================== -->
-<!-->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Maciej%20%7C%20Wehhig&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%E2%80%94%20Programming%20%26%20Algorithms&descAlign=50&descAlignY=55&animation=twinkling&color=0:0f172a,100:7c3aed&format=png" />
-</p>
--->
+
+<!-- Banner removed (external image was breaking on GitHub) -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=650&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Maciej+(Wehhig)+%F0%9F%91%8B;Programming+%26+Algorithms+%E2%80%A2+ML%2FCV+%E2%80%A2+Backend+%E2%80%A2+DevOps;Clean+code%2C+measurable+results%2C+good+docs" />
 </p>
@@ -105,7 +103,6 @@ Neural network projects focused on **learning dynamics, evaluation, and visualiz
 - 🔗 SOM: WTA vs WTM — https://github.com/Wehhig/Self-organizing-networks-Wta-Wtm  
 - 🔗 XOR in PyTorch — https://github.com/Wehhig/XOR_PyTorch-Implementation  
 - 🔗 IRIS classification — https://github.com/Wehhig/IRIS_Data_Base  
-
 
 ---
 
