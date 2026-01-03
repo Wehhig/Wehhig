@@ -26,7 +26,7 @@
 ## ⚡ Snapshot
 - 🎓 **Computer Science Engineering student** (Programming & Algorithms)
 - 🧠 Practical projects: **ML/CV experiments** + **backend/data** tooling
-- 🧪 I care about: **benchmarks, plots, reproducibility, performance**
+- 🧪 I care about: **cleancode,  optimalization and overall performance of products**
 - 🧰 Comfortable with **Windows/Linux**, Git workflows, and modern tooling
 
 ---
