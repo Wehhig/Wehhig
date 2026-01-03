@@ -1,9 +1,3 @@
-<!-- =======================
-   PROFILE README — Wehhig
-   Style: minimal + cyber
-======================== -->
-
-<!-- Banner removed (external image was breaking on GitHub) -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=650&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+Maciej+(Wehhig)+%F0%9F%91%8B;Programming+%26+Algorithms+%E2%80%A2+ML%2FCV+%E2%80%A2+Backend+%E2%80%A2+CI%2FCD;Clean+code%2C+performance%2C+shipping+things+that+work" />
@@ -81,11 +75,11 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Interactive / Web</h3>
+      <h3>Backend & Data</h3>
       <ul>
-        <li>Three.js scenes (3D simulations, UI overlays, controls)</li>
-        <li>clean user-facing features: responsiveness and UX details</li>
-        <li>building demos that are easy to run and easy to understand</li>
+        <li>working with relational data (PostgreSQL) and clean data models</li>
+        <li>building reliable APIs/services and tooling</li>
+        <li>focus on correctness, stability, and maintainability</li>
       </ul>
     </td>
   </tr>
@@ -144,10 +138,3 @@ Neural network projects focused on **learning dynamics, evaluation, and visualiz
 <p align="center">
   <sub>Maciej Krupa • Wehhig</sub>
 </p>
-
-<!--
-Optional: If GitHub widgets break for you, keep them out.
-If you still want ONE stable widget, uncomment below:
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Wehhig&theme=tokyonight&hide_border=true&cache_seconds=86400)
--->
