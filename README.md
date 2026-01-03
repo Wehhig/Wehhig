@@ -6,7 +6,7 @@
 <!-- Banner removed (external image was breaking on GitHub) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=650&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Maciej+(Wehhig)+%F0%9F%91%8B;Programming+%26+Algorithms+%E2%80%A2+ML%2FCV+%E2%80%A2+Backend+%E2%80%A2+DevOps;Clean+code%2C+measurable+results%2C+good+docs" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=650&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+Maciej+(Wehhig)+%F0%9F%91%8B;Programming+%26+Algorithms+%E2%80%A2+ML%2FCV+%E2%80%A2+Backend+%E2%80%A2+CI%2FCD;Clean+code%2C+performance%2C+shipping+things+that+work" />
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 
 ## ⚡ Snapshot
 - 🎓 **Computer Science Engineering student** (Programming & Algorithms)
-- 🧠 Practical projects: **ML/CV experiments** + **backend/data** tooling
-- 🧪 I care about: **cleancode,  optimalization and overall performance of products**
+- 🧠 I build practical projects: **computer vision**, **interactive apps**, and **backend/data** tooling
+- 🧪 I care about: **clean code, performance, and measurable results**
 - 🧰 Comfortable with **Windows/Linux**, Git workflows, and modern tooling
 
 ---
@@ -35,7 +35,7 @@
 
 **Core:** Python • C++ • C# • JavaScript • Node.js  
 **ML / CV:** PyTorch • OpenCV • MediaPipe • Jupyter  
-**Backend / DevOps:** PostgreSQL • Docker • Kubernetes • AWS • CI/CD  
+**Backend / Cloud:** PostgreSQL • Docker • Kubernetes • AWS • CI/CD  
 **Docs / Tools:** Git • Linux/Windows • LaTeX
 
 <p align="center">
@@ -58,16 +58,34 @@
       <h3>Programming & Algorithms</h3>
       <ul>
         <li>data structures, complexity, clean C++/C#</li>
-        <li>problem solving + readable code</li>
-        <li>reproducible experiments and reports</li>
+        <li>problem solving, readable and maintainable code</li>
+        <li>performance mindset (profiling, optimization when it matters)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
+      <h3>Engineering & Delivery</h3>
+      <ul>
+        <li>project structure, modular design, and clear architecture</li>
+        <li>CI/CD basics: automated builds, linting, and simple pipelines</li>
+        <li>containerized dev setups (Docker) and cloud fundamentals (AWS)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>ML / Computer Vision</h3>
       <ul>
-        <li>PyTorch experiments, evaluation & plots</li>
-        <li>OpenCV / MediaPipe pipelines</li>
+        <li>PyTorch experiments, evaluation and visualizations</li>
+        <li>OpenCV / MediaPipe pipelines (real-time hand tracking)</li>
         <li>practical prototypes over buzzwords</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Interactive / Web</h3>
+      <ul>
+        <li>Three.js scenes (3D simulations, UI overlays, controls)</li>
+        <li>clean user-facing features: responsiveness and UX details</li>
+        <li>building demos that are easy to run and easy to understand</li>
       </ul>
     </td>
   </tr>
