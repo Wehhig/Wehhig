@@ -177,6 +177,3 @@ The project combined OpenCV, MediaPipe, Python and Unity/C#, requiring integrati
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B2F,50:1F6FEB,100:020617&height=120&section=footer" width="100%" alt="Footer" />
-</p>
