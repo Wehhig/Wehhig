@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2EA043&height=180&section=header&text=Maciej%20Krupa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20Security%20%7C%20Infrastructure%20Automation&descAlignY=58&descSize=16" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:0D1117,100:003B2F&height=220&section=header&text=Aspiring%20DevOps%20Engineer&fontSize=38&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=Cloud%20Security%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Infrastructure%20Automation&descAlignY=62&descSize=16" width="100%" alt="Header" />
 </p>
 
-<h1 align="center">Hi, I'm Maciej 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Applied+Computer+Science+student;Aspiring+DevOps+Engineer;Interested+in+Cloud+Security+and+Security+Operations;Linux+%7C+Docker+%7C+Monitoring+%7C+Automation;Building+practical+infrastructure-focused+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2EA043&center=true&vCenter=true&width=900&lines=Linux+%7C+Docker+%7C+Monitoring+%7C+Security;Building+practical+infrastructure-focused+projects;Exploring+Cloud+Security+and+Security+Operations;Learning+Git%2C+CI%2FCD+and+automation+workflows" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,13 +13,16 @@
   <a href="https://github.com/Wehhig">
     <img src="https://img.shields.io/badge/GitHub-Wehhig-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="mailto:maciejkrupa132@gmail.com">
+    <img src="https://img.shields.io/badge/Email-maciejkrupa132%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 ## About me
 
-<img align="right" alt="Coding GIF" width="260" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
+<img align="right" alt="Calm coding workspace" width="260" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 
 I'm an **Applied Computer Science student** at the **University of Łódź**, developing towards **DevOps**, **Cloud Security**, **DevSecOps** and **Security Operations**.
 
@@ -30,6 +31,14 @@ I focus on practical technical areas such as Linux environments, Docker-based se
 I like building projects that are not only working, but also structured, maintainable and useful in real-world scenarios.
 
 <br clear="right"/>
+
+```text
+$ focus --area
+DevOps | Cloud Security | Infrastructure Automation | Monitoring
+
+$ current-stack --short
+Linux, Docker, Bash, Python, Prometheus, Grafana, Git, CI/CD basics
+```
 
 ---
 
@@ -169,5 +178,5 @@ The project combined OpenCV, MediaPipe, Python and Unity/C#, requiring integrati
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B2F,50:1F6FEB,100:020617&height=120&section=footer" width="100%" alt="Footer" />
 </p>
