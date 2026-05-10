@@ -1,140 +1,160 @@
+<h1 align="center">Hi, I'm Maciej👋</h1>
+
+<h3 align="center">
+Aspiring DevOps Engineer | Cloud Security & Infrastructure Automation
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=650&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+Maciej+(Wehhig)+%F0%9F%91%8B;Programming+%26+Algorithms+%E2%80%A2+ML%2FCV+%E2%80%A2+Backend+%E2%80%A2+CI%2FCD;Clean+code%2C+performance%2C+shipping+things+that+work" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Wehhig?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/maciej-krupaa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Maciej%20Krupa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Wehhig?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Wehhig?tab=followers">
-    <img src="https://img.shields.io/badge/Follow-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Wehhig">
+    <img src="https://img.shields.io/badge/GitHub-Wehhig-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚡ Snapshot
-- 🎓 **Computer Science Engineering student** (Programming & Algorithms)
-- 🧠 I build practical projects: **computer vision**, **interactive apps**, and **backend/data** tooling
-- 🧪 I care about: **clean code, performance, and measurable results**
-- 🧰 Comfortable with **Windows/Linux**, Git workflows, and modern tooling
+## About me
+
+I'm an Applied Computer Science student at the University of Łódź, currently developing my skills in DevOps, Cloud Security and infrastructure automation.
+
+I focus on practical, real-world technical areas such as Linux environments, Docker, monitoring, backup, access control, scripting and secure infrastructure practices.
+
+I like building projects that are not only working, but also structured, maintainable and useful.
 
 ---
 
-## 🧩 Tech Stack
+## Current focus
 
-**Core:** Python • C++ • C# • JavaScript • Node.js  
-**ML / CV:** PyTorch • OpenCV • MediaPipe • Jupyter  
-**Backend / Cloud:** PostgreSQL • Docker • Kubernetes • AWS • CI/CD  
-**Docs / Tools:** Git • Linux/Windows • LaTeX
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,nodejs,pytorch,opencv,postgres,git,linux,docker,kubernetes,aws,latex&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CI%2FCD-0f172a?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-0f172a?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-0f172a?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+- Linux system administration and local infrastructure
+- Docker-based services and containerized environments
+- CI/CD fundamentals and Git-based workflows
+- Monitoring with Prometheus and Grafana
+- Cloud Security, access control and vulnerability management basics
+- Python and Bash scripting for automation
 
 ---
 
-## 🧠 What I focus on
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Programming & Algorithms</h3>
-      <ul>
-        <li>data structures, complexity, clean C++/C#</li>
-        <li>problem solving, readable and maintainable code</li>
-        <li>performance mindset (profiling, optimization when it matters)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Engineering & Delivery</h3>
-      <ul>
-        <li>project structure, modular design, and clear architecture</li>
-        <li>CI/CD basics: automated builds, linting, and simple pipelines</li>
-        <li>containerized dev setups (Docker) and cloud fundamentals (AWS)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>ML / Computer Vision</h3>
-      <ul>
-        <li>PyTorch experiments, evaluation and visualizations</li>
-        <li>OpenCV / MediaPipe pipelines (real-time hand tracking)</li>
-        <li>practical prototypes over buzzwords</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Backend & Data</h3>
-      <ul>
-        <li>working with relational data (PostgreSQL) and clean data models</li>
-        <li>building reliable APIs/services and tooling</li>
-        <li>focus on correctness, stability, and maintainability</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## Tech stack
 
----
-
-## 🧷 Featured projects 
-
-### 🖐️ Mystic Sign — hand tracking game
-**MediaPipe + OpenCV (Python)** for gesture recognition + **Unity (C#)** gameplay layer.  
-➡️ Repo: https://github.com/Wehhig/mystic_sign_game
-
-### 🪐 Solar System — 3D simulation
-Interactive Solar System built in **Three.js (JavaScript)**.  
-➡️ Repo: https://github.com/Wehhig/Solar-System
-
-### 🧠 AI Mini Suite — PyTorch experiments
-Neural network projects focused on **learning dynamics, evaluation, and visualization**.
+### Systems / Automation
 
 <p>
-  <a href="https://github.com/Wehhig/Self-organizing-networks-Wta-Wtm">
-    <img src="https://img.shields.io/badge/SOM%20(WTA%2FWTM)-0f172a?style=flat-square&logo=pytorch&logoColor=white" />
-  </a>
-  <a href="https://github.com/Wehhig/XOR_PyTorch-Implementation">
-    <img src="https://img.shields.io/badge/XOR%20(MLP)-0f172a?style=flat-square&logo=pytorch&logoColor=white" />
-  </a>
-  <a href="https://github.com/Wehhig/IRIS_Data_Base">
-    <img src="https://img.shields.io/badge/IRIS%20(Binary%20%2B%20MLP)-0f172a?style=flat-square&logo=pytorch&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Batch-0D1117?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenMediaVault-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-- 🔗 SOM: WTA vs WTM — https://github.com/Wehhig/Self-organizing-networks-Wta-Wtm  
-- 🔗 XOR in PyTorch — https://github.com/Wehhig/XOR_PyTorch-Implementation  
-- 🔗 IRIS classification — https://github.com/Wehhig/IRIS_Data_Base  
+### DevOps / Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Kubernetes%20basics-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/CI%2FCD%20basics-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20fundamentals-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/GCP%20fundamentals-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+</p>
+
+### Monitoring / Security
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=E6522C" />
+  <img src="https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" />
+  <img src="https://img.shields.io/badge/Access%20Control-0D1117?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Management-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+</p>
+
+### Programming / Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+### Databases / Desktop
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Qt-0D1117?style=for-the-badge&logo=qt&logoColor=41CD52" />
+</p>
 
 ---
 
-## 🌍 Languages
-- 🇵🇱 Polish — Native  
-- 🇬🇧 English — C1  
-- 🇩🇪 German — A1  
+## Featured projects
+
+### Local NAS Infrastructure & Monitoring Environment
+
+Local NAS environment prepared during an IT internship at INWEMER, including network shares, users, permissions, backup, data synchronization and basic monitoring.
+
+The project combined Linux system administration, Docker-based services, Prometheus/Grafana monitoring and a practical approach to access security.
+
+**Tech:** OpenMediaVault · Linux · Docker · Prometheus · Grafana
 
 ---
 
-## 📫 Contact
-<p align="center">
-  <a href="https://www.linkedin.com/in/maciej-krupa-918b59335">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:maciejkrupa132@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Rental Management Desktop Application
+
+Desktop application for managing a rental system with a local SQLite database.
+
+The system supports users, rentable items, rentals, returns, operation history, search, filtering and item availability tracking. The project included data validation, database transactions and safeguards against inconsistent operations.
+
+**Tech:** C++ · Qt Widgets · Qt SQL · SQLite
+
+---
+
+### GRIB Decoder
+
+Custom GRIB file decoder for binary data analysis and extraction of information from structured meteorological formats.
+
+The project involved scanning binary streams, parsing Product/Grid/Data sections and reading packed big-endian fields in C++.
+
+**Tech:** C++ · Binary Data · File Parsing · GRIB
+
+---
+
+### Real-Time Hand Gesture Control System
+
+System for controlling a Unity application with hand gestures, based on continuous camera input and real-time data processing.
+
+The project combined OpenCV, MediaPipe, Python and Unity/C#, requiring integration of multiple components and attention to interaction smoothness.
+
+**Tech:** Python · OpenCV · MediaPipe · Unity · C#
+
+Repository: https://github.com/Wehhig/Mystic_sign_game
+
+---
+
+## GitHub stats
 
 <p align="center">
-  <sub>Maciej Krupa • Wehhig</sub>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wehhig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wehhig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+</p>
+
+---
+
+## Languages
+
+- Polish — Native
+- English — C1
+- German — A2
+
+---
+
+## Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/maciej-krupaa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Maciej%20Krupa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
